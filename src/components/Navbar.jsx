@@ -17,10 +17,10 @@ const Navbar = () => {
 
                 <div className='flex-center gap-3'>
                     <button>
-                        <img src="/search.svg" alt="" />
+                        <img src="/search.svg" alt="search" />
                     </button>
                     <button>
-                        <img src="/cart.svg" alt="" />
+                        <img src="/cart.svg" alt="cart" />
                     </button>
                 </div>
             </nav>
