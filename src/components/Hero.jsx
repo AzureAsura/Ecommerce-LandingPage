@@ -20,7 +20,7 @@ const Hero = () => {
 
             <button>Beli</button>
 
-            <p>Mulai dari Rp. 10.000.000</p>
+            <p>Model 14 inci. Kini bertenaga super berkat M4.</p>
         </section>
     )
 }
