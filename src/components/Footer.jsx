@@ -5,7 +5,7 @@ const Footer = () => {
         <footer className="container mx-auto py-7 max-lg:px-5">
             <div className="flex-between">
                 <p className="text-sm font-medium">Dapatkan produk Apple impian Anda hanya di Aldynè.</p>
-                <img src="/logo.svg" alt ="Apple logo"/>
+                <img src="/favi.png" alt ="Apple logo" className="w-8"/>
             </div>
 
             <hr className="my-7 text-[#424245]"/>
